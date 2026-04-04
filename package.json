@@ -1,0 +1,14 @@
+{
+  "name": "@focusfire/sharpening-iron-extension",
+  "version": "1.0.0",
+  "description": "Gemini CLI Extension: Sharpening Iron (The Skeptic-in-Chief)",
+  "main": "index.js",
+  "keywords": [
+    "gemini-cli-extension",
+    "architecture",
+    "qa",
+    "logic-audit"
+  ],
+  "author": "",
+  "license": "MIT"
+}

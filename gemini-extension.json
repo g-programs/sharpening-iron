@@ -1,0 +1,8 @@
+{
+  "name": "sharpening-iron",
+  "version": "1.0.0",
+  "description": "A universal Devil's Advocate for software architecture. Questions implementation plans to find logic gaps and happy-path biases.",
+  "author": "Focus Fire Team",
+  "license": "MIT",
+  "mcpServers": []
+}
