@@ -1,8 +1,9 @@
 {
   "name": "sharpening-iron",
-  "version": "1.0.0",
-  "description": "A universal Devil's Advocate for software architecture. Questions implementation plans to find logic gaps and happy-path biases.",
+  "version": "1.1.0",
+  "description": "A rigorous, constructive devil's advocate for plans, ideas, and decisions. Stress-tests premises, assumptions, and failure modes, then iterates with you until the plan is near-flawless.",
   "author": "Focus Fire Team",
   "license": "MIT",
-  "mcpServers": []
+  "mcpServers": [],
+  "contextFileName": "GEMINI.md"
 }
