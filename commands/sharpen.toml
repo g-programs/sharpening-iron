@@ -1,0 +1,9 @@
+description = "Pressure-test a plan or idea with the Sharpening Iron devil's advocate. Optional: quick | standard | deep, followed by the plan."
+prompt = """
+Activate the `sharpening-iron` skill and apply its full workflow.
+
+Arguments from the user (may start with an intensity of `quick`, `standard`, or `deep`; default to inferring it from the stakes):
+{{args}}
+
+If no plan is included above, sharpen the most recent plan, idea, or decision in this conversation. If there isn't one, ask the user to describe what they want challenged.
+"""
